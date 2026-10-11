@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1066368160762",
+    "project_id": "task-manager-crud-app",
+    "storage_bucket": "task-manager-crud-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066368160762:android:d3f049e05b03693723ca43",
+        "android_client_info": {
+          "package_name": "com.example.task_manager_crud_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066368160762-v19007ots8fh39j087n75rvq1kr051l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQ1oLKjEd3-SIuDATzt5h_O1421xMiaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066368160762-v19007ots8fh39j087n75rvq1kr051l3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066368160762-r0mhavpiu5rufeio738ru1t7c66ui32r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskManagerCrudApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
